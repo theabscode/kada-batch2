@@ -91,10 +91,15 @@ const ProgramOverview = () => {
                 Kabupaten Bekasi, Jawa Barat 17530, Indonesia
               </p>
             </div>
-            <div className="bg-purple-50 rounded-lg p-6">
-              <MapPin className="w-8 h-8 text-purple-600 mb-3" />
-              <p className="text-purple-800 font-medium">Training Location</p>
-            </div>
+            <a 
+  href="https://maps.app.goo.gl/Y61MmKQGTpRmdKg18" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="bg-purple-50 rounded-lg p-6 block hover:bg-purple-100 transition-colors cursor-pointer"
+>
+  <MapPin className="w-8 h-8 text-purple-600 mb-3" />
+  <p className="text-purple-800 font-medium">Training Location</p>
+</a>
           </div>
         </motion.div>
       </div>

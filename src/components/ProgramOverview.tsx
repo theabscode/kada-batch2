@@ -54,7 +54,7 @@ const ProgramOverview = () => {
             {
               icon: <Calendar className="w-12 h-12 text-purple-600 mb-4" />,
               title: "Application Deadline",
-              value: "August 31, 2025",
+              value: "September 5, 2025",
               desc: "Results announced on September 10",
             },
             {

@@ -18,12 +18,12 @@ const Contact = () => {
         <p className="text-lg text-purple-100 text-center mb-8 max-w-2xl mx-auto">
           Join the Korea-ASEAN Digital Academy to gain valuable skills,
           networking opportunities, and potential job placements. Applications
-          are open until August 31, 2025.
+          are open until September 5, 2025.
         </p>
         <div className="flex flex-col md:flex-row justify-center items-center gap-4 mb-8 w-full">
           <div className="flex items-center bg-purple-400 bg-opacity-30 rounded-lg px-6 py-3 text-white text-base w-full md:w-auto justify-center">
             <Calendar className="w-5 h-5 mr-2" />
-            Deadline: August 31, 2025
+            Deadline: September 5, 2025
           </div>
           <div className="flex items-center bg-purple-400 bg-opacity-30 rounded-lg px-6 py-3 text-white text-base w-full md:w-auto justify-center">
             <Mail className="w-5 h-5 mr-2" />

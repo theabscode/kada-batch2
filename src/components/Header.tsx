@@ -30,7 +30,7 @@ const Header = () => {
             animation: text-flash 1.5s infinite;
           }
         `}</style>
-        <span className="font-bold flash-text">⚡ URGENT - RECRUITING NOW</span>
+        <span className="font-bold flash-text">🟢 SELECTION IN PROGRESS</span>
       </div>
       <nav
         className={`w-full fixed top-8 left-0 z-40 flex items-center justify-between px-4 sm:px-8 py-3 transition-colors transition-shadow duration-300

@@ -48,9 +48,15 @@ const SelectionModal = () => {
           </p>
 
           <p className="mb-4">
-            This bootcamp consists of 4 batches running until next year. If you
-            were not selected for this batch, we encourage you to apply for the
-            next batch.
+            Due to limited capacity, not all qualified applicants could be
+            selected. This bootcamp consists of 4 batches running until next
+            year. If you were not selected for this batch, we encourage you to
+            apply for the next batch.
+          </p>
+
+          <p className="mb-4">
+            Please check your email regularly for the next 1-2 weeks as
+            additional spots may become available.
           </p>
         </div>
 

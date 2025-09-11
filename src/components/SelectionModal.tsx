@@ -59,7 +59,7 @@ const SelectionModal = () => {
           onClick={closeModal}
           className="bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-8 rounded-full transition-colors duration-200"
         >
-          확인
+          Okay
         </button>
       </div>
     </div>
